@@ -1,4 +1,4 @@
-# Freire-PP-MS1
+# FREIREPP_COVID19_MS1
 Analysis notebooks for "Specific immune-regulatory transcriptional signatures reveal sex and age differences in SARS-CoV-2 infected patients
 
 code: R scripts. The file script.R is the main file.
